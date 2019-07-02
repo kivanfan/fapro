@@ -1,6 +1,6 @@
 {
   "name": "fapro",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "<link rel=\"stylesheet\" href=\"/node_modules/fapro/css/all.css\">",
   "main": "index.js",
   "scripts": {
