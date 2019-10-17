@@ -1,7 +1,7 @@
 {
   "name": "fapro",
-  "version": "5.11.2-rc.1",
-  "description": "v5.11.2-rc.1",
+  "version": "5.11.2-rc.2",
+  "description": "v5.11.2-rc.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
