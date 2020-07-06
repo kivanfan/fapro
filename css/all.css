@@ -16878,8 +16878,28 @@
     font-style: normal;
     font-weight: 400;
     src: url(../webfonts/fa-regular-400-pro.eot);
-    src: url(../webfonts/fa-regular-400-pro.eot?#iefix) format("embedded-opentype"), url(../webfonts/fa-regular-400-pro.woff2) format("woff2"), url(../webfonts/fa-duotone-900-pro.woff) format("woff"), url(../webfonts/fa-regular-400-pro.ttf) format("truetype"), url(../webfonts/fa-regular-400-pro.svg#fontawesome) format("svg");
+    src: url(../webfonts/fa-regular-400-pro.eot?#iefix) format("embedded-opentype"), url(../webfonts/fa-regular-400-pro.woff2) format("woff2"), url(../webfonts/fa-regular-400-pro.woff) format("woff"), url(../webfonts/fa-regular-400-pro.ttf) format("truetype"), url(../webfonts/fa-regular-400-pro.svg#fontawesome) format("svg");
 
+}
+
+@font-face {
+    font-family: "Font Awesome 5 Brands";
+    font-style: normal;
+    font-weight: 400;
+    src: url(../webfonts/fa-brands-400-free.eot);
+    src: url(../webfonts/fa-brands-400-free.eot?#iefix) format("embedded-opentype"), url(../webfonts/fa-brands-400-free.woff2) format("woff2"), url(../webfonts/fa-brands-400-free.woff) format("woff"), url(../webfonts/fa-brands-400-free.ttf) format("truetype"), url(../webfonts/fa-brands-400-free.svg#fontawesome) format("svg");
+
+}
+.fab{
+    font-weight:400;
+    font-family:"Font Awesome 5 Brands";
+}
+@font-face {
+    font-family: "Font Awesome 5 Duotone";
+    font-style: normal;
+    font-weight: 900;
+    src: url(../webfonts/fa-duotone-900-pro.eot);
+    src: url(../webfonts/fa-duotone-900-pro.eot?#iefix) format("embedded-opentype"), url(../webfonts/fa-duotone-900-pro.woff2) format("woff2"), url(../webfonts/fa-duotone-900-pro.woff) format("woff"), url(../webfonts/fa-duotone-900-pro.ttf) format("truetype"), url(../webfonts/fa-duotone-900-pro.svg#fontawesome) format("svg");
 }
 
 .fal, .far {
